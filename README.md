@@ -2,6 +2,7 @@
 
 Jenkins scripts to Spin up  Vagrant node and install Docker Swarm using Ansible.
 
+"Jenksins_script.sh" Script Clone the Vagrant file and Ansible play book from Git repo.
 
 For Quick Start you needs to setup below softwares on you node:
 
