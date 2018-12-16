@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #Jenkins Execute SHELL script to SPIN UP vagrant BOX and install Docker Swarm.
+#Script Clone the Vagrant file and Ansible play book from Git repo.
 
 source ~/.bashrc
 cd $WORKSPACE
