@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Jenkins Execute SHELL script to SPIN UP vagrant BOX and install Docker Swarm.
 
 source ~/.bashrc
 cd $WORKSPACE
