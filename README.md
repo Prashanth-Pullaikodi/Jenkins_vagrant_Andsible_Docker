@@ -19,11 +19,11 @@ Once software configuraton done,Login to Jenkins and follow below steps
 - Go to your jenkins server then click on new item.
 - Select on freestyle project
 - Click OK
-- Once project created,Go to Jenkins project folder and replace the config.xml with attched one.
+- Once project created,Go to Jenkins project folder from Termanil and replace the config.xml with attached one.
 - Restart Jenkins.
 - Now you will have the new configurayion for your JOB.Just click on Build.
 
-## OR Follow below steps if you would like to Jenkins configure your JOB manually. 
+## OR Follow below steps if you would like to configure your Jenkins JOB manually. 
 
 - Make sure that Jenkins Git plugin installed .
 - Click on configure on newly created project.
